@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+Hi humans!
+
+Elyn07 here, I like Java and C# 
